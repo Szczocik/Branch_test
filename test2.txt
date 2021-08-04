@@ -1,3 +1,3 @@
 Jestem zadowolony
 dołaczyłem nowy branch
-trzecia linia nie jest ok
+trzecia linia jest moim zdaniem OK.
